@@ -691,10 +691,10 @@
 // ----------------------------------------------------------------------------
   $strings['Selected theme'] = '當前主題';
   $strings['Themes provide the look and feel of The Bug Genie, other than the icons. Therefore, changing the theme will change the colours, fonts and layout of your installation'] = 'Themes provide the look and feel of The Bug Genie, other than the icons. Therefore, changing the theme will change the colours, fonts and layout of your installation';
-  $strings['Selected iconset'] = '當前表徵圖集';
+  $strings['Selected iconset'] = '當前圖示圖集';
   $strings['An iconset contains all the icons used in The Bug Genie. You can change the icons to be used using this option'] = 'An iconset contains all the icons used in The Bug Genie. You can change the icons to be used using this option';
-  $strings['Custom header and favicons'] = '自定義頁頭和網站表徵圖';
-  $strings['Configure icons'] = '配置表徵圖';
+  $strings['Custom header and favicons'] = '自定義頁頭和網站圖示圖';
+  $strings['Configure icons'] = '配置圖示圖';
   $strings['Custom header link'] = '自定義頁頭連結';
   $strings['You can alter the webpage that clicking on the header icon navigates to. If left blank it will link to the main page of this installation.'] = 'You can alter the webpage that clicking on the header icon navigates to. If left blank it will link to the main page of this installation.';
 
@@ -1341,10 +1341,10 @@
 // First occurrence is in: modules/configuration/templates/configurepermissions.html.php
 // ----------------------------------------------------------------------------
   $strings['Configure permissions'] = '配置權限';
-  $strings['Icon legend:'] = '表徵圖說明：';
+  $strings['Icon legend:'] = '圖示圖說明：';
   $strings['Show more detailed permissions'] = '查看更詳細權限';
   $strings['Set permissions'] = '設置權限';
-  $strings['Permissions icon legend:'] = '權限表徵圖說明：';
+  $strings['Permissions icon legend:'] = '權限圖示圖說明：';
   $strings['Not set (permissive system setting)'] = '未設置 (寬鬆系統設置)';
   $strings['Not set (restrictive system setting)'] = '未設置 (嚴格系統設置)';
   $strings['Not set (uses global permission)'] = '未設置 (用戶通用權限)';
@@ -2413,7 +2413,7 @@
   $strings['Any issues you create will be related to %related_issue_title%'] = 'Any issues you create will be related to %related_issue_title%';
   $strings['You are adding an issue to release %release_name%'] = 'You are adding an issue to release %release_name%';
   $strings['Choose %issuetype_name%'] = '選擇 %issuetype_name%';
-  $strings["Hold your mouse over an issuetype to see what it's used for"] = "滑鼠懸停在表徵圖上查看類型說明";
+  $strings["Hold your mouse over an issuetype to see what it's used for"] = "滑鼠懸停在圖示圖上查看類型說明";
   $strings['Short summary'] = '簡介';
   $strings['Enter a short, but descriptive summary of the issue here'] = '在此輸入簡潔明確的問題描述';
   $strings['Select issue type'] = '選擇問題類型';
@@ -3125,21 +3125,21 @@
 
 // First occurrence is in: modules/project/templates/_projecticons.inc.php
 // ----------------------------------------------------------------------------
-  $strings['Update project icons'] = '更新專案表徵圖';
-  $strings['Small icon'] = '小表徵圖';
+  $strings['Update project icons'] = '更新專案圖示圖';
+  $strings['Small icon'] = '小圖示圖';
   $strings['Enable file uploads to upload project icons'] = 'Enable file uploads to upload project icons';
-  $strings['Large icon'] = '大表徵圖';
+  $strings['Large icon'] = '大圖示圖';
   $strings['When you are done, click "%update_icons%" to upload the new project icons'] = 'When you are done, click "%update_icons%" to upload the new project icons';
 
 // First occurrence is in: modules/project/templates/_projectinfo.inc.php
 // ----------------------------------------------------------------------------
   $strings['Editing project details'] = '編輯專案詳情';
-  $strings['Project icons'] = '專案表徵圖';
+  $strings['Project icons'] = '專案圖示圖';
   $strings['Do you really want to reset the project icons? Please confirm.'] = 'Do you really want to reset the project icons? Please confirm.';
-  $strings['Reset icons'] = '重置表徵圖';
+  $strings['Reset icons'] = '重置圖示圖';
   $strings['Reset project icons?'] = 'Reset project icons?';
   $strings['Change project icons'] = 'Change project icons';
-  $strings['Set project icons'] = '設置專案表徵圖';
+  $strings['Set project icons'] = '設置專案圖示圖';
   $strings['Not a subproject'] = 'Not a subproject';
   $strings['Client'] = 'Client';
   $strings['No client'] = 'No client';
