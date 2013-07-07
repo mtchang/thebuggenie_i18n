@@ -11,29 +11,29 @@
 
 // First occurrence is in: core/classes/TBGContext.class.php
 // ----------------------------------------------------------------------------
-  $strings['Can see issues reported by other users'] = 'Can see issues reported by other users';
-  $strings['Can see issues reported by users in the same group'] = 'Can see issues reported by users in the same group';
+  $strings['Can see issues reported by other users'] = '能夠看見其他使用者報告的問題';
+  $strings['Can see issues reported by users in the same group'] = '能夠看見相同群組的使用者報告的問題';
   $strings['Can access the configuration page and edit all configuration'] = '允許訪問配置頁面並允許修改所有配置';
-  $strings['Read-only access: "Settings" configuration page'] = 'Read-only access: "Settings" configuration page';
-  $strings['Read + write access: "Settings" configuration page'] = 'Read + write access: "Settings" configuration page';
-  $strings['Read-only access: "Permissions" configuration page'] = 'Read-only access: "Permissions" configuration page';
-  $strings['Read + write access: "Permissions" configuration page'] = 'Read + write access: "Permissions" configuration page';
-  $strings['Read-only access: "Uploads" configuration page'] = 'Read-only access: "Uploads" configuration page';
-  $strings['Read + write access: "Uploads" configuration page'] = 'Read + write access: "Uploads" configuration page';
-  $strings['Read-only access: "Scopes" configuration page'] = 'Read-only access: "Scopes" configuration page';
-  $strings['Read + write access: "Scopes" configuration page'] = 'Read + write access: "Scopes" configuration page';
-  $strings['Read-only access: "Import" configuration page'] = 'Read-only access: "Import" configuration page';
-  $strings['Read + write access: "Import" configuration page'] = 'Read + write access: "Import" configuration page';
-  $strings['Read-only access: "Projects" configuration page'] = 'Read-only access: "Projects" configuration page';
-  $strings['Read + write access: "Projects" configuration page'] = 'Read + write access: "Projects" configuration page';
-  $strings['Read-only access: "Issue types" configuration page'] = 'Read-only access: "Issue types" configuration page';
-  $strings['Read + write access: "Issue types" configuration page'] = 'Read + write access: "Issue types" configuration page';
-  $strings['Read-only access: "Issue fields" configuration page'] = 'Read-only access: "Issue fields" configuration page';
-  $strings['Read + write access: "Issue fields" configuration page'] = 'Read + write access: "Issue fields" configuration page';
-  $strings['Read-only access: "Users, teams and groups" configuration page'] = 'Read-only access: "Users, teams and groups" configuration page';
-  $strings['Read + write access: "Users, teams and groups" configuration page'] = 'Read + write access: "Users, teams and groups" configuration page';
-  $strings['Read-only access: "Modules" and any module configuration page'] = 'Read-only access: "Modules" and any module configuration page';
-  $strings['Read + write access: "Modules" configuration page and any modules'] = 'Read + write access: "Modules" configuration page and any modules';
+  $strings['Read-only access: "Settings" configuration page'] = 'Read-only access: "設定" configuration page';
+  $strings['Read + write access: "Settings" configuration page'] = 'Read + write access: "設定" configuration page';
+  $strings['Read-only access: "Permissions" configuration page'] = 'Read-only access: "權限" configuration page';
+  $strings['Read + write access: "Permissions" configuration page'] = 'Read + write access: "權限" configuration page';
+  $strings['Read-only access: "Uploads" configuration page'] = 'Read-only access: "上傳" configuration page';
+  $strings['Read + write access: "Uploads" configuration page'] = 'Read + write access: "上傳" configuration page';
+  $strings['Read-only access: "Scopes" configuration page'] = 'Read-only access: "範圍" configuration page';
+  $strings['Read + write access: "Scopes" configuration page'] = 'Read + write access: "範圍" configuration page';
+  $strings['Read-only access: "Import" configuration page'] = 'Read-only access: "匯入" configuration page';
+  $strings['Read + write access: "Import" configuration page'] = 'Read + write access: "匯入" configuration page';
+  $strings['Read-only access: "Projects" configuration page'] = 'Read-only access: "專案" configuration page';
+  $strings['Read + write access: "Projects" configuration page'] = 'Read + write access: "專案" configuration page';
+  $strings['Read-only access: "Issue types" configuration page'] = 'Read-only access: "問題類型" configuration page';
+  $strings['Read + write access: "Issue types" configuration page'] = 'Read + write access: "問題類型" configuration page';
+  $strings['Read-only access: "Issue fields" configuration page'] = 'Read-only access: "問題欄位" configuration page';
+  $strings['Read + write access: "Issue fields" configuration page'] = 'Read + write access: "問題欄位" configuration page';
+  $strings['Read-only access: "Users, teams and groups" configuration page'] = 'Read-only access: "使用者、團隊和群組" configuration page';
+  $strings['Read + write access: "Users, teams and groups" configuration page'] = 'Read + write access: "使用者、團隊和群組" configuration page';
+  $strings['Read-only access: "Modules" and any module configuration page'] = 'Read-only access: "模組" and any module configuration page';
+  $strings['Read + write access: "Modules" configuration page and any modules'] = 'Read + write access: "模組" configuration page and any modules';
   $strings['Can search for issues and create saved searches'] = 'Can search for issues and create saved searches';
   $strings['Can search for issues'] = '能以議題做搜尋';
   $strings['Can create saved searches that are public'] = 'Can create saved searches that are public';
@@ -46,15 +46,15 @@
   $strings['Can change own password'] = '允許修改密碼';
   $strings['Can see list of teams in header menu'] = 'Can see list of teams in header menu';
   $strings['Can access all clients'] = '允許訪問所有客戶端';
-  $strings['Can access all project pages'] = '允許訪問所有項目頁面';
-  $strings['Can access the project dashboard'] = '允許訪問項目工作台';
-  $strings['Can access the project planning page'] = '允許訪問項目計劃頁面';
-  $strings['Can access the project scrum page'] = '允許訪問項目Scrum頁面';
-  $strings['Can access the project issues search page'] = '允許訪問項目問題搜索頁面';
-  $strings['Can access the project roadmap page'] = '允許訪問項目路線圖頁面';
-  $strings['Can access the project team page'] = '允許訪問項目團隊頁面';
-  $strings['Can access the project statistics page'] = '允許訪問項目統計頁面';
-  $strings['Can access the project timeline page'] = '允許訪問項目時間軸頁面';
+  $strings['Can access all project pages'] = '允許訪問所有專案頁面';
+  $strings['Can access the project dashboard'] = '允許訪問專案工作台';
+  $strings['Can access the project planning page'] = '允許訪問專案計劃頁面';
+  $strings['Can access the project scrum page'] = '允許訪問專案Scrum頁面';
+  $strings['Can access the project issues search page'] = '允許訪問專案問題搜索頁面';
+  $strings['Can access the project roadmap page'] = '允許訪問專案路線圖頁面';
+  $strings['Can access the project team page'] = '允許訪問專案團隊頁面';
+  $strings['Can access the project statistics page'] = '允許訪問專案統計頁面';
+  $strings['Can access the project timeline page'] = '允許訪問專案時間軸頁面';
   $strings['Can see that project exists'] = 'Can see that 專案 exists';
   $strings['Can see complete project hierarchy'] = 'Can see complete project hierarchy';
   $strings['Can see all editions'] = 'Can see all editions';
@@ -158,9 +158,9 @@
   $strings["What you've done recently"] = "您已經完成的";
   $strings['Recent comments'] = '歷史評論';
   $strings['Recent issues: %issuetype%'] = '歷史問題： %issuetype%';
-  $strings['About this project'] = '關於這個項目';
-  $strings['Project team'] = '項目團隊';
-  $strings['Project client'] = '項目客戶';
+  $strings['About this project'] = '關於這個專案';
+  $strings['Project team'] = '專案團隊';
+  $strings['Project client'] = '專案客戶';
   $strings['Subprojects'] = '子項目';
   $strings['Graph of closed vs open issues, past 15 days'] = '過去15天打開、關閉的問題';
   $strings['Statistics by priority'] = '按優先順序統計';
@@ -386,10 +386,10 @@
 // First occurrence is in: core/templates/headertop.inc.php
 // ----------------------------------------------------------------------------
   $strings['Summary'] = '概要';
-  $strings['Open issues for this project'] = '查看該項目問題';
-  $strings['Closed issues for this project'] = '查看該項目已關閉問題';
-  $strings['Wishlist for this project'] = '項目期望列表';
-  $strings['Milestone todo-list for this project'] = '項目里程碑 todo-list ';
+  $strings['Open issues for this project'] = '查看該專案問題';
+  $strings['Closed issues for this project'] = '查看該專案已關閉問題';
+  $strings['Wishlist for this project'] = '專案期望列表';
+  $strings['Milestone todo-list for this project'] = '專案里程碑 todo-list ';
   $strings['Most voted for issues'] = 'Most voted for issues';
   $strings['Issues reported this month'] = '本月報告的問題';
   $strings['Issues reported last 30 days'] = '30天前報告的問題';
@@ -494,7 +494,7 @@
   $strings['Authentication'] = '授權';
   $strings['Uploads &amp; attachments'] = '檔案上傳 &amp; 附件';
   $strings['Import data'] = '導入數據';
-  $strings['Projects'] = '項目';
+  $strings['Projects'] = '專案';
   $strings['Issue types'] = '問題類型';
   $strings['Issue fields'] = '問題欄位';
   $strings['Workflow'] = '工作流';
@@ -556,7 +556,7 @@
   $strings['The custom field was deleted'] = 'The custom field was deleted';
   $strings['There are no more projects available in this instance'] = 'There are no more projects available in this instance';
   $strings['The project has been added'] = 'The project has been added';
-  $strings['A project with the same key already exists'] = '已經有一個項目使用了同樣的key';
+  $strings['A project with the same key already exists'] = '已經有一個專案使用了同樣的key';
   $strings['An error occurred:'] = '發生了一個錯誤：';
   $strings['Please specify a valid project name'] = 'Please specify a valid project name';
   $strings["You don't have access to add projects"] = "You don't have access to add projects";
@@ -650,7 +650,7 @@
   $strings['Insufficient data to import'] = 'Insufficient data to import';
   $strings["Required column '%col%' not found in header row"] = "Required column '%col%' not found in header row";
   $strings['Row %row% column %col% has no value'] = 'Row %row% column %col% has no value';
-  $strings['Row %row%: A project with this name already exists'] = '第%row%行: 已存在同名項目';
+  $strings['Row %row%: A project with this name already exists'] = '第%row%行: 已存在同名專案';
   $strings['Row %row% column %col%: invalid value (must be 1/0)'] = 'Row %row% column %col%: invalid value (must be 1/0)';
   $strings['Row %row%: Both the type and item ID must be supplied for owner/lead/qa fields'] = 'Row %row%: Both the type and item ID must be supplied for owner/lead/qa fields';
   $strings['Row %row% column %col%: invalid value (must be 1 for a user or 2 for a team)'] = 'Row %row% column %col%: invalid value (must be 1 for a user or 2 for a team)';
@@ -776,12 +776,12 @@
   $strings['This is the name appearing in the headers and several other places, usually displaying "The Bug Genie"'] = 'This is the name appearing in the headers and several other places, usually displaying "The Bug Genie"';
   $strings['Allow HTML in site title'] = '允許在網站標題中使用HTML';
   $strings['Enabling this setting allows a malicious admin user to potentially insert harmful code'] = 'Enabling this setting allows a malicious admin user to potentially insert harmful code';
-  $strings['Single project tracker mode'] = '單項目跟蹤模式';
+  $strings['Single project tracker mode'] = '單專案跟蹤模式';
   $strings['Yes, behave as tracker for a single project'] = 'Yes, behave as tracker for a single project';
   $strings['No, use regular index page'] = 'No, use regular index page';
   $strings['In single project tracker mode, The Bug Genie will display the homepage for the first project as the main page instead of the regular index page'] = 'In single project tracker mode, The Bug Genie will display the homepage for the first project as the main page instead of the regular index page';
   $strings['More than one project exists. When in "single project" mode, accessing other projects than the first will become harder.'] = 'More than one project exists. When in "single project" mode, accessing other projects than the first will become harder.';
-  $strings['Show project list on frontpage'] = '在首頁顯示項目列表';
+  $strings['Show project list on frontpage'] = '在首頁顯示專案列表';
   $strings['Whether the project overview list should appear on the frontpage or not'] = 'Whether the project overview list should appear on the frontpage or not';
   $strings['Comment trail'] = 'Comment trail';
   $strings["Don't post system comments when an issue is updated"] = "Don't post system comments when an issue is updated";
@@ -831,7 +831,7 @@
   $strings['ID'] = 'ID';
   $strings['Workflow schemes'] = 'Workflow schemes';
   $strings['Data for issue import'] = 'Data for issue import';
-  $strings['Projects and milestones'] = '項目與里程碑';
+  $strings['Projects and milestones'] = '專案與里程碑';
   $strings['Issue type values'] = 'Issue type values';
   $strings['Status values'] = 'Status values';
   $strings['Reproducability values'] = 'Reproducability values';
@@ -1022,21 +1022,21 @@
   $strings['ARCHIVED'] = '已歸檔';
   $strings['Subproject of'] = 'Subproject of';
   $strings['Owner: %user_or_team%'] = 'Owner: %user_or_team%';
-  $strings['Edit project'] = '編輯項目';
-  $strings['Show project details'] = '查看項目明細';
+  $strings['Edit project'] = '編輯專案';
+  $strings['Show project details'] = '查看專案明細';
   $strings['Unarchive'] = '取消歸檔';
   $strings['Unarchive project'] = 'Unarchive project';
   $strings['Archive'] = '存檔';
-  $strings['Archive project'] = '存檔項目';
-  $strings['Archive this project?'] = '項目歸檔？';
+  $strings['Archive project'] = '存檔專案';
+  $strings['Archive this project?'] = '專案歸檔？';
   $strings['If you archive a project, it is placed into a read only mode, where the project and its issues can no longer be edited. This will also prevent you from creating new issues, and will hide it from project lists (it can be viewed from an Archived Projects list). This will not, however, affect any subprojects this one has.'] = 'If you archive a project, it is placed into a read only mode, where the project and its issues can no longer be edited. This will also prevent you from creating new issues, and will hide it from project lists (it can be viewed from an Archived Projects list). This will not, however, affect any subprojects this one has.';
   $strings['If you need to reactivate this subproject, you can do this from projects configuration.'] = 'If you need to reactivate this subproject, you can do this from projects configuration.';
   $strings['Delete'] = '刪除';
-  $strings['Delete project'] = '刪除項目';
-  $strings['Deleting this project will prevent users from accessing it or any associated data, such as issues.'] = '刪除此項目會導致用戶無法訪問其相關數據，例如問題。';
-  $strings['Really delete project?'] = '確定刪除項目？';
-  $strings['Edit project permissions'] = '編輯項目權限';
-  $strings['Show project permissions'] = '查看項目權限';
+  $strings['Delete project'] = '刪除專案';
+  $strings['Deleting this project will prevent users from accessing it or any associated data, such as issues.'] = '刪除此專案會導致用戶無法訪問其相關數據，例如問題。';
+  $strings['Really delete project?'] = '確定刪除專案？';
+  $strings['Edit project permissions'] = '編輯專案權限';
+  $strings['Show project permissions'] = '查看專案權限';
 
 // First occurrence is in: modules/configuration/templates/_reglang.inc.php
 // ----------------------------------------------------------------------------
@@ -1355,15 +1355,15 @@
 
 // First occurrence is in: modules/configuration/templates/configureprojects.html.php
 // ----------------------------------------------------------------------------
-  $strings['Manage projects'] = '管理項目';
-  $strings['Configure projects'] = '配置項目';
+  $strings['Manage projects'] = '管理專案';
+  $strings['Configure projects'] = '配置專案';
   $strings['More information about projects, editions, builds and components is available from the %wiki_help_section%.'] = 'More information about projects, editions, builds and components is available from the %wiki_help_section%.';
   $strings['Wiki help section'] = 'Wiki help section';
   $strings['This instance is using %num% of max %max% projects'] = 'This instance is using %num% of max %max% projects';
-  $strings['Create a new project'] = '創建新項目';
-  $strings['Adding project, please wait'] = '正在增加項目，請等待';
-  $strings['Existing projects'] = '已存在項目';
-  $strings['There are no projects available'] = '沒有可用項目';
+  $strings['Create a new project'] = '創建新專案';
+  $strings['Adding project, please wait'] = '正在增加專案，請等待';
+  $strings['Existing projects'] = '已存在專案';
+  $strings['There are no projects available'] = '沒有可用專案';
 
 // First occurrence is in: modules/configuration/templates/configureroles.html.php
 // ----------------------------------------------------------------------------
@@ -1949,7 +1949,7 @@
 
 // First occurrence is in: modules/main/templates/_archivedprojects.inc.php
 // ----------------------------------------------------------------------------
-  $strings['Archived projects'] = '已歸檔項目';
+  $strings['Archived projects'] = '已歸檔專案';
   $strings['Displaying archived projects for %item%'] = 'Displaying archived projects for %item%';
   $strings['Displaying archived subprojects for %project%'] = 'Displaying archived subprojects for %project%';
   $strings['This project has no archived subprojects'] = 'This project has no archived subprojects';
@@ -2586,7 +2586,7 @@
   $strings['Telephone:'] = '聯繫電話：';
   $strings['Fax:'] = '傳真：';
   $strings['Projects for %client%'] = 'Projects for %client%';
-  $strings['Show archived projects'] = '查看已存檔項目';
+  $strings['Show archived projects'] = '查看已存檔專案';
   $strings['Milestones / sprints'] = '里程碑 / sprints';
   $strings["There are no upcoming milestones for any of this client's associated projects"] = "There are no upcoming milestones for any of this client's associated projects";
   $strings['There are no projects assigned to this client'] = 'There are no projects assigned to this client';
@@ -2603,8 +2603,8 @@
   $strings['Your dashboard page is accessible from anywhere - click your username in the top right header area at any time to access your dashboard.'] = 'Your dashboard page is accessible from anywhere - click your username in the top right header area at any time to access your dashboard.';
   $strings["This dashboard doesn't contain any views."] = "This dashboard doesn't contain any views.";
   $strings['Setup my dashboard'] = '設置我的工作台';
-  $strings['Your projects'] = '您的項目';
-  $strings['You are not associated with any projects'] = '您未關聯到任何項目';
+  $strings['Your projects'] = '您的專案';
+  $strings['You are not associated with any projects'] = '您未關聯到任何專案';
   $strings['Upcoming milestones / sprints'] = 'Upcoming milestones / sprints';
   $strings['Showing milestones and sprint for the next 21 days'] = 'Showing milestones and sprint for the next 21 days';
   $strings['There are no upcoming milestones for any of your associated projects'] = 'There are no upcoming milestones for any of your associated projects';
@@ -2628,7 +2628,7 @@
   $strings['Sample data can be imported from %configure_import%.'] = 'Sample data can be imported from %configure_import%.';
   $strings['Quick links'] = '快捷連結';
   $strings['There are no top-level projects'] = 'There are no top-level projects';
-  $strings['Go to project management'] = '前往項目管理';
+  $strings['Go to project management'] = '前往專案管理';
   $strings['Projects can only be created by an administrator'] = 'Projects can only be created by an administrator';
 
 // First occurrence is in: modules/main/templates/myaccount.html.php
@@ -2700,7 +2700,7 @@
 // ----------------------------------------------------------------------------
   $strings['Team dashboard for %team_name%'] = 'Team dashboard for %team_name%';
   $strings['Team dashboard'] = '團隊工作台';
-  $strings['Projects for %team%'] = '%team% 的項目';
+  $strings['Projects for %team%'] = '%team% 的專案';
   $strings["There are no upcoming milestones for any of this team's associated projects"] = "There are no upcoming milestones for any of this team's associated projects";
   $strings['There are no projects linked to this team'] = 'There are no projects linked to this team';
   $strings['Members of %team%'] = '%team% 的成員';
@@ -2813,7 +2813,7 @@
   $strings['The transition could not be applied to issue %issue_number% because of %errors%'] = 'The transition could not be applied to issue %issue_number% because of %errors%';
   $strings['The transition failed because of an error in the workflow. Check your workflow configuration.'] = 'The transition failed because of an error in the workflow. Check your workflow configuration.';
   $strings['An error occured when trying to apply the transition'] = 'An error occured when trying to apply the transition';
-  $strings['An error occurred when trying to assign user/team to this project'] = '在分配 用戶/團隊 到這個項目時出錯';
+  $strings['An error occurred when trying to assign user/team to this project'] = '在分配 用戶/團隊 到這個專案時出錯';
   $strings["You don't have access to save project settings"] = "You don't have access to save project settings";
   $strings['You do not have access to update these settings'] = 'You do not have access to update these settings';
   $strings['%IMPORTANT%: The project key has changed. Remember to replace the current url with the new project key'] = '%IMPORTANT%: The project key has changed. Remember to replace the current url with the new project key';
@@ -3034,7 +3034,7 @@
 // ----------------------------------------------------------------------------
   $strings['"%project_name%" project timeline'] = '"%project_name%" project timeline';
   $strings['Quick edit'] = '快速編輯';
-  $strings['Go to project website'] = '前往項目網站';
+  $strings['Go to project website'] = '前往專案網站';
   $strings['No homepage provided'] = '未設置主頁';
   $strings['No documentation URL provided'] = '未設置文檔地址';
   $strings['%closed% closed of %issues% reported'] = '%closed% closed of %issues% reported';
@@ -3046,24 +3046,24 @@
 
 // First occurrence is in: modules/project/templates/_projectconfig_container.inc.php
 // ----------------------------------------------------------------------------
-  $strings['Quick edit project'] = '快速編輯項目';
+  $strings['Quick edit project'] = '快速編輯專案';
   $strings['More settings'] = '更多設置';
   $strings['Only showing basic project details. More settings available in the main project configuration.'] = 'Only showing basic project details. More settings available in the main project configuration.';
-  $strings['Project name'] = '項目名稱';
-  $strings['Project key'] = '項目關鍵字';
+  $strings['Project name'] = '專案名稱';
+  $strings['Project key'] = '專案關鍵字';
   $strings['This is a part of all urls referring to this project'] = 'This is a part of all urls referring to this project';
   $strings['Use prefix'] = '使用首碼';
   $strings['Issue prefix'] = '問題首碼';
   $strings['No prefix set'] = 'No prefix set';
   $strings['See %about_issue_prefix% for an explanation about issue prefixes'] = 'See %about_issue_prefix% for an explanation about issue prefixes';
   $strings['about issue prefixes'] = '關於問題首碼';
-  $strings['Project description'] = '項目介紹';
+  $strings['Project description'] = '專案介紹';
   $strings['No description set'] = 'No description set';
   $strings['When you are done, click "%save%" to save your changes'] = '修改完成點擊 "%save%" 保存修改';
 
 // First occurrence is in: modules/project/templates/_projectdevelopers.inc.php
 // ----------------------------------------------------------------------------
-  $strings['Project administration'] = '項目管理';
+  $strings['Project administration'] = '專案管理';
   $strings['These are the people in charge of different areas of the project. The project owner has total control over this project and can edit information, settings, and anything about it. The project leader does not have this power, but will be notified of anything happening in the project. The QA responsible role does not grant any special privileges, it is purely an informational setting.'] = 'These are the people in charge of different areas of the project. The project owner has total control over this project and can edit information, settings, and anything about it. The project leader does not have this power, but will be notified of anything happening in the project. The QA responsible role does not grant any special privileges, it is purely an informational setting.';
   $strings['Project owner'] = 'Project owner';
   $strings['Change / set owner'] = 'Change / set owner';
@@ -3077,7 +3077,7 @@
   $strings['Change / set QA responsible'] = 'Change / set QA responsible';
   $strings['Set QA responsible to noone'] = 'Set QA responsible to noone';
   $strings['Change Qa responsible'] = 'Change Qa responsible';
-  $strings['Add people to this project'] = '在項目中增加人員';
+  $strings['Add people to this project'] = '在專案中增加人員';
   $strings['Find team or user'] = '查找團隊或用戶';
   $strings['To add people to this project, enter the name of a user or team to search for it'] = 'To add people to this project, enter the name of a user or team to search for it';
 
@@ -3125,7 +3125,7 @@
 
 // First occurrence is in: modules/project/templates/_projecticons.inc.php
 // ----------------------------------------------------------------------------
-  $strings['Update project icons'] = '更新項目表徵圖';
+  $strings['Update project icons'] = '更新專案表徵圖';
   $strings['Small icon'] = '小表徵圖';
   $strings['Enable file uploads to upload project icons'] = 'Enable file uploads to upload project icons';
   $strings['Large icon'] = '大表徵圖';
@@ -3133,13 +3133,13 @@
 
 // First occurrence is in: modules/project/templates/_projectinfo.inc.php
 // ----------------------------------------------------------------------------
-  $strings['Editing project details'] = '編輯項目詳情';
-  $strings['Project icons'] = '項目表徵圖';
+  $strings['Editing project details'] = '編輯專案詳情';
+  $strings['Project icons'] = '專案表徵圖';
   $strings['Do you really want to reset the project icons? Please confirm.'] = 'Do you really want to reset the project icons? Please confirm.';
   $strings['Reset icons'] = '重置表徵圖';
   $strings['Reset project icons?'] = 'Reset project icons?';
   $strings['Change project icons'] = 'Change project icons';
-  $strings['Set project icons'] = '設置項目表徵圖';
+  $strings['Set project icons'] = '設置專案表徵圖';
   $strings['Not a subproject'] = 'Not a subproject';
   $strings['Client'] = 'Client';
   $strings['No client'] = 'No client';
@@ -3157,7 +3157,7 @@
   $strings['%number_of_issues_per% Resolution'] = '%number_of_issues_per% Resolution';
   $strings['%number_of_issues_per% Reproducability'] = '%number_of_issues_per% Reproducability';
   $strings['%number_of_issues_per% Status type'] = '%number_of_issues_per% Status type';
-  $strings['Project details'] = '項目詳情';
+  $strings['Project details'] = '專案詳情';
   $strings['Display settings'] = '顯示設置';
   $strings['Editions and components'] = '版本和元件';
   $strings['Roles and permissions'] = '角色與權限';
@@ -3185,7 +3185,7 @@
   $strings['Project-specific roles'] = 'Project-specific roles';
   $strings['There are no project-specific roles available'] = 'There are no project-specific roles available';
   $strings['Show roles'] = 'Show roles';
-  $strings['Editing advanced project permissions'] = '編輯高級項目權限';
+  $strings['Editing advanced project permissions'] = '編輯高級專案權限';
   $strings['These permissions directly control what you can do, and which pages you can access in The Bug Genie - on a project-specific basis. Some of these permissions are also available as site-wide permissions in the %permissions_configuration% page. You may want to use roles and assignments instead of applying these permissions directly.'] = 'These permissions directly control what you can do, and which pages you can access in The Bug Genie - on a project-specific basis. Some of these permissions are also available as site-wide permissions in the %permissions_configuration% page. You may want to use roles and assignments instead of applying these permissions directly.';
   $strings['permissions configuration'] = '權限設置';
 
@@ -3210,8 +3210,8 @@
 
 // First occurrence is in: modules/project/templates/_projectsettings.inc.php
 // ----------------------------------------------------------------------------
-  $strings['Editing advanced project settings'] = '編輯項目高級設置';
-  $strings['Project-specific settings'] = '項目設置';
+  $strings['Editing advanced project settings'] = '編輯專案高級設置';
+  $strings['Project-specific settings'] = '專案設置';
   $strings['Enable releases'] = 'Enable releases';
   $strings['If this project has regular new main- or test-releases, you should enable releases'] = 'If this project has regular new main- or test-releases, you should enable releases';
   $strings['Use editions'] = 'Use editions';
@@ -3271,11 +3271,11 @@
 // First occurrence is in: modules/project/templates/dashboard.html.php
 // ----------------------------------------------------------------------------
   $strings['"%project_name%" project dashboard'] = '"%project_name%" project dashboard';
-  $strings['Setup project dashboard'] = '設置項目工作台';
+  $strings['Setup project dashboard'] = '設置專案工作台';
 
 // First occurrence is in: modules/project/templates/files.html.php
 // ----------------------------------------------------------------------------
-  $strings['Project files'] = '項目幫助';
+  $strings['Project files'] = '專案幫助';
   $strings['"%project_name%" files'] = '"%project_name%" files';
 
 // First occurrence is in: modules/project/templates/findassignee.html.php
@@ -3314,15 +3314,15 @@
   $strings['"%project_name%" project planning'] = '"%project_name%" project planning';
   $strings['Add new milestone'] = '增加新里程碑';
   $strings['Configure columns'] = '配置列';
-  $strings['Project milestones'] = '項目里程碑';
+  $strings['Project milestones'] = '專案里程碑';
   $strings['Adding sprint, please wait'] = '增加sprint，請等待';
   $strings['No milestones have been created yet.'] = 'No milestones have been created yet.';
 
 // First occurrence is in: modules/project/templates/releasecenter.html.php
 // ----------------------------------------------------------------------------
   $strings['"%project_name%" release center'] = '"%project_name%" release center';
-  $strings['Add new project release'] = '增加新項目發佈';
-  $strings['Active project releases'] = '發佈活動的項目';
+  $strings['Add new project release'] = '增加新專案發佈';
+  $strings['Active project releases'] = '發佈活動的專案';
   $strings['There are no active releases for this project'] = 'There are no active releases for this project';
   $strings['Add new edition release'] = '增加一個新版本發佈';
   $strings['Active %edition_name% releases'] = '活動%edition_name%發佈';
@@ -3384,15 +3384,15 @@
   $strings['%number_of_articles% articles imported successfully'] = '%number_of_articles% articles imported successfully';
   $strings['Project archive'] = 'Project archive';
   $strings['Documentation'] = '文檔';
-  $strings['Project documentation'] = '項目文檔';
+  $strings['Project documentation'] = '專案文檔';
   $strings['Documents'] = '文檔';
-  $strings['Project documents'] = '項目文檔';
+  $strings['Project documents'] = '專案文檔';
   $strings['Help'] = '幫助';
-  $strings['Project help'] = '項目幫助';
-  $strings['Project wiki'] = '項目百科';
+  $strings['Project help'] = '專案幫助';
+  $strings['Project wiki'] = '專案百科';
   $strings['Wiki'] = 'Wiki';
   $strings['Can edit the wiki lefthand menu'] = 'Can edit the wiki lefthand menu';
-  $strings['Can access the project wiki'] = '允許訪問項目百科';
+  $strings['Can access the project wiki'] = '允許訪問專案百科';
   $strings['Can write articles in project wiki'] = 'Can write articles in project wiki';
   $strings['Can delete articles from project wiki'] = 'Can delete articles from project wiki';
 
@@ -3461,10 +3461,10 @@
 // ----------------------------------------------------------------------------
   $strings['Currently selected project'] = 'Currently selected project';
   $strings['Project wiki frontpage'] = 'Project wiki frontpage';
-  $strings['Find project article (press enter to search)'] = '查找項目文章 （按回車查找）';
+  $strings['Find project article (press enter to search)'] = '查找專案文章 （按回車查找）';
   $strings['Global content'] = '公共內容';
   $strings['Find any article (press enter to search)'] = '查找任意文章 （按回測查找）';
-  $strings['Project wikis'] = '項目百科';
+  $strings['Project wikis'] = '專案百科';
 
 // First occurrence is in: modules/publish/templates/_placeholder.inc.php
 // ----------------------------------------------------------------------------
@@ -3488,11 +3488,11 @@
   $strings['General wiki settings'] = '通用 WIKI 設置';
   $strings['Import wiki articles'] = '導入 WIKI 文章';
   $strings['Menu title'] = '選單標題';
-  $strings['Project archive / Archive'] = '項目歸檔 / 歸檔';
-  $strings['Project documentation / Documentation'] = '項目文檔 / 文檔';
-  $strings['Project documents / Documents'] = '項目文檔 / 文檔';
-  $strings['Project help / Help'] = '項目幫助 / 幫助';
-  $strings['Project wiki / Wiki'] = '項目 wiki / Wiki';
+  $strings['Project archive / Archive'] = '專案歸檔 / 歸檔';
+  $strings['Project documentation / Documentation'] = '專案文檔 / 文檔';
+  $strings['Project documents / Documents'] = '專案文檔 / 文檔';
+  $strings['Project help / Help'] = '專案幫助 / 幫助';
+  $strings['Project wiki / Wiki'] = '專案 wiki / Wiki';
   $strings['Specify here if you want to show a different menu title than "Wiki" in the header menu'] = 'Specify here if you want to show a different menu title than "Wiki" in the header menu';
   $strings['Allow "CamelCased" links'] = 'Allow "CamelCased" links';
   $strings['CamelCasing'] = '駝峰命名法';
@@ -3661,7 +3661,7 @@
 
 // First occurrence is in: modules/search/templates/_filter.inc.php
 // ----------------------------------------------------------------------------
-  $strings['Project'] = '項目';
+  $strings['Project'] = '專案';
   $strings['%field% is %value%'] = '%field% 是 %value%';
   $strings['%field% is not %value%'] = '%field% 不是 %value%';
   $strings['%posted_or_updated% before %value%'] = '%posted_or_updated% 在 %value% 之前';
@@ -3763,7 +3763,7 @@
 // First occurrence is in: modules/search/templates/_sidebar.inc.php
 // ----------------------------------------------------------------------------
   $strings['Predefined searches'] = '預定義搜索';
-  $strings['Project wishlist'] = '項目期望列表';
+  $strings['Project wishlist'] = '專案期望列表';
   $strings['Your saved searches'] = 'Your saved searches';
   $strings['Your saved searches for this project'] = 'Your saved searches for this project';
   $strings['Delete saved search'] = 'Delete saved search';
@@ -3781,7 +3781,7 @@
 
 // First occurrence is in: modules/search/templates/findissues.html.php
 // ----------------------------------------------------------------------------
-  $strings['Find issues for %project_name%'] = '在項目 %project_name% 中查找問題';
+  $strings['Find issues for %project_name%'] = '在專案 %project_name% 中查找問題';
   $strings['Wishlist for %project_name%'] = 'Wishlist for %project_name%';
   $strings['Issues reported for %project_name% this month'] = 'Issues reported for %project_name% this month';
   $strings['Issues reported for %project_name% last 30 days'] = 'Issues reported for %project_name% last 30 days';
