@@ -55,7 +55,7 @@
   $strings['Can access the project team page'] = '允許訪問項目團隊頁面';
   $strings['Can access the project statistics page'] = '允許訪問項目統計頁面';
   $strings['Can access the project timeline page'] = '允許訪問項目時間軸頁面';
-  $strings['Can see that project exists'] = 'Can see that project exists';
+  $strings['Can see that project exists'] = 'Can see that 專案 exists';
   $strings['Can see complete project hierarchy'] = 'Can see complete project hierarchy';
   $strings['Can see all editions'] = 'Can see all editions';
   $strings['Can see all components'] = 'Can see all components';
