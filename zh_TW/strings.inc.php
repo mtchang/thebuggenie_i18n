@@ -1,9 +1,9 @@
 <?php
 
 // Number of Sections: 271
-// Updated at: 2012 Dec 26.
-// Translator: 
-// Translator email: 
+// Updated at: 2013 Jul 7.
+// Translator: Ming-Tai Chang
+// Translator email: mtchang.tw@gmail.com
 
 // First occurrence is in: core/classes/TBGAction.class.php
 // ----------------------------------------------------------------------------
