@@ -113,13 +113,13 @@
   $strings['Can add releases / versions to list of affected versions for issues reported by the user'] = 'Can add releases / versions to list of affected versions for issues reported by the user';
   $strings['Can add releases / versions to list of affected versions for any issues'] = 'Can add releases / versions to list of affected versions for any issues';
   $strings['Can add components to list of affected components for issues reported by the user'] = 'Can add components to list of affected components for issues reported by the user';
-  $strings['Can add components to list of affected components for any issues'] = '允許添加組件到列表或受影響組件到任意問題';
+  $strings['Can add components to list of affected components for any issues'] = '允許增加組件到列表或受影響組件到任意問題';
   $strings['Can add editions to list of affected editions for issues reported by the user'] = 'Can add editions to list of affected editions for issues reported by the user';
   $strings['Can add editions to list of affected editions for any issues'] = 'Can add editions to list of affected editions for any issues';
   $strings['Can add links to issues reported by the user'] = 'Can add links to issues reported by the user';
-  $strings['Can add links to any issues'] = '允許添加連結到任意問題';
-  $strings['Can add files to and remove own files from issues reported by the user'] = '允許從問題中添加或刪除用戶的檔案';
-  $strings['Can add files to and remove own files from any issues'] = '允許從問題中添加或刪除自己的檔案';
+  $strings['Can add links to any issues'] = '允許增加連結到任意問題';
+  $strings['Can add files to and remove own files from issues reported by the user'] = '允許從問題中增加或刪除用戶的檔案';
+  $strings['Can add files to and remove own files from any issues'] = '允許從問題中增加或刪除自己的檔案';
   $strings['Can remove any attachments from issues reported by the user'] = 'Can remove any attachments from issues reported by the user';
   $strings['Can remove any attachments from any issues'] = 'Can remove any attachments from any issues';
   $strings['Can add related issues to other issues'] = 'Can add related issues to other issues';
@@ -204,7 +204,7 @@
   $strings['%number_of% points'] = '%number_of% points';
   $strings['1 point'] = '1 點';
   $strings['No time'] = 'No time';
-  $strings['A file was uploaded. %link_to_file% This comment was attached: %comment%'] = '檔案上傳成功：%link_to_file% 註解：%comment% 已添加。';
+  $strings['A file was uploaded. %link_to_file% This comment was attached: %comment%'] = '檔案上傳成功：%link_to_file% 註解：%comment% 已增加。';
   $strings['A file was uploaded. %link_to_file%'] = '上傳了一個檔案。 %link_to_file%';
   $strings['This issue no longer depends on the solution of issue %issue_no%'] = 'This issue no longer depends on the solution of issue %issue_no%';
   $strings['Issue dependancy removed'] = 'Issue dependancy removed';
@@ -212,13 +212,13 @@
   $strings['This %this_issuetype% now depends on the solution of %issuetype% %issue_no%'] = 'This %this_issuetype% now depends on the solution of %issuetype% %issue_no%';
   $strings['Dependancy added'] = 'Dependancy added';
   $strings['%issuetype% %issue_no% now depends on the solution of this %this_issuetype%'] = '%issuetype% %issue_no% now depends on the solution of this %this_issuetype%';
-  $strings["'%release_name%' added"] = "'%release_name%' 已添加";
+  $strings["'%release_name%' added"] = "'%release_name%' 已增加";
   $strings["'''%release_name%''' is now affected by this issue"] = "'''%release_name%''' is now affected by this issue";
   $strings['Affected releases'] = '受影響的發佈';
-  $strings["'%edition_name%' added"] = "'%edition_name%' 已添加";
+  $strings["'%edition_name%' added"] = "'%edition_name%' 已增加";
   $strings["'''%edition_name%''' is now affected by this issue"] = "'''%edition_name%''' is now affected by this issue";
   $strings['Affected editions'] = '受影響的版本';
-  $strings["'%component_name%' added"] = "'%component_name%' 已添加";
+  $strings["'%component_name%' added"] = "'%component_name%' 已增加";
   $strings["'''%component_name%''' is now affected by this issue"] = "'''%component_name%''' is now affected by this issue";
   $strings['Affected components'] = '受影響的組件';
   $strings["'%item_name%' removed"] = "'%item_name%' 已刪除";
@@ -871,10 +871,10 @@
 // ----------------------------------------------------------------------------
   $strings['Existing choices'] = 'Existing choices';
   $strings['There are no items'] = 'There are no items';
-  $strings['Add an option'] = '添加選項';
+  $strings['Add an option'] = '增加選項';
   $strings['Color'] = 'Color';
   $strings['Value'] = 'Value';
-  $strings['Add'] = '添加';
+  $strings['Add'] = '增加';
 
 // First occurrence is in: modules/configuration/templates/_issuefields_customtype.inc.php
 // ----------------------------------------------------------------------------
@@ -1177,7 +1177,7 @@
 // ----------------------------------------------------------------------------
   $strings['Add outgoing transition from step "%step_name%"'] = 'Add outgoing transition from step "%step_name%"';
   $strings['Existing transition'] = 'Existing transition';
-  $strings['Add transition'] = '添加過渡';
+  $strings['Add transition'] = '增加過渡';
   $strings['Create new transition'] = 'Create new transition';
   $strings['Transition name'] = 'Transition name';
   $strings['This name will be presented to the user as a link'] = 'This name will be presented to the user as a link';
@@ -1291,20 +1291,20 @@
   $strings['Edit built-in and custom issue fields and values here'] = 'Edit built-in and custom issue fields and values here';
   $strings['Built-in issue fields'] = 'Built-in issue fields';
   $strings['Custom issue fields'] = 'Custom issue fields';
-  $strings['Add new custom field'] = '添加自定義欄';
+  $strings['Add new custom field'] = '增加自定義欄';
   $strings['Enter a name for the field (same as ex. "%resolution_types%" above), then click %add%'] = 'Enter a name for the field (same as ex. "%resolution_types%" above), then click %add%';
   $strings['Custom type'] = 'Custom type';
   $strings['Field name'] = 'Field name';
   $strings['Field label'] = 'Field label';
   $strings['The label is shown to the user in issue view'] = 'The label is shown to the user in issue view';
-  $strings['Add custom field'] = '添加自定義欄位';
+  $strings['Add custom field'] = '增加自定義欄位';
 
 // First occurrence is in: modules/configuration/templates/configureissuetypes.html.php
 // ----------------------------------------------------------------------------
   $strings['Configure issue types'] = '配置問題類型';
   $strings['Available issue types'] = '可用的問題類型';
   $strings['In this tab you can add/remove/edit what issue types are available to issue type schemes. If you add a new issue type on this page, remember to associate it to an issue type scheme on the %issue_type_schemes% tab to get it to show up for users.'] = 'In this tab you can add/remove/edit what issue types are available to issue type schemes. If you add a new issue type on this page, remember to associate it to an issue type scheme on the %issue_type_schemes% tab to get it to show up for users.';
-  $strings['Add a new issue type'] = '添加問題類型';
+  $strings['Add a new issue type'] = '增加問題類型';
   $strings['Issue type name'] = 'Issue type name';
   $strings['In this tab you can add/remove/edit issue type schemes. If you add a new issue type on the previous tab, you must associate it with an issue type scheme in this tab to get it to show up for users.'] = 'In this tab you can add/remove/edit issue type schemes. If you add a new issue type on the previous tab, you must associate it with an issue type scheme in this tab to get it to show up for users.';
   $strings['Keep in mind that the original issue type scheme is uneditable, so to make any changes, make a copy of the first issue type scheme, or edit one that is not the one shipped with The Bug Genie'] = 'Keep in mind that the original issue type scheme is uneditable, so to make any changes, make a copy of the first issue type scheme, or edit one that is not the one shipped with The Bug Genie';
@@ -1361,7 +1361,7 @@
   $strings['Wiki help section'] = 'Wiki help section';
   $strings['This instance is using %num% of max %max% projects'] = 'This instance is using %num% of max %max% projects';
   $strings['Create a new project'] = '創建新項目';
-  $strings['Adding project, please wait'] = '正在添加項目，請等待';
+  $strings['Adding project, please wait'] = '正在增加項目，請等待';
   $strings['Existing projects'] = '已存在項目';
   $strings['There are no projects available'] = '沒有可用項目';
 
@@ -1422,18 +1422,18 @@
   $strings['Create user'] = '創建用戶';
   $strings['Create a new group'] = '創建用戶組';
   $strings['Create'] = '創建';
-  $strings['Adding group, please wait'] = '正在添加用戶組，請等待';
+  $strings['Adding group, please wait'] = '正在增加用戶組，請等待';
   $strings['Create a new team'] = '創建新團隊';
-  $strings['Adding team, please wait'] = '正在添加團隊，請等待';
+  $strings['Adding team, please wait'] = '正在增加團隊，請等待';
   $strings['Create a new client'] = 'Create a new client';
   $strings['You can set other details, such as an email address or telephone number, after creating the client.'] = 'You can set other details, such as an email address or telephone number, after creating the client.';
-  $strings['Adding client, please wait'] = '添加客戶端，請等待';
+  $strings['Adding client, please wait'] = '增加客戶端，請等待';
 
 // First occurrence is in: modules/configuration/templates/configureworkflows.html.php
 // ----------------------------------------------------------------------------
-  $strings['Add an empty workflow'] = '添加空工作流';
+  $strings['Add an empty workflow'] = '增加空工作流';
   $strings['Blank workflow'] = '空白工作流';
-  $strings['Add workflow'] = '添加工作流';
+  $strings['Add workflow'] = '增加工作流';
 
 // First occurrence is in: modules/configuration/templates/configureworkflowscheme.html.php
 // ----------------------------------------------------------------------------
@@ -1454,7 +1454,7 @@
   $strings['This page shows all the available details for this step for the selected workflow, as well as transitions to and from this step.'] = 'This page shows all the available details for this step for the selected workflow, as well as transitions to and from this step.';
   $strings['You can add and remove transitions from this page, as well as manage properties for this step.'] = 'You can add and remove transitions from this page, as well as manage properties for this step.';
   $strings['Edit this step'] = '編輯這個步驟';
-  $strings['Add outgoing transition'] = '添加一個outgoing轉換';
+  $strings['Add outgoing transition'] = '增加一個outgoing轉換';
   $strings['State'] = '狀態';
   $strings['Open and editable'] = 'Open and editable';
   $strings['Open, but not editable'] = 'Open, but not editable';
@@ -1482,7 +1482,7 @@
   $strings['This page shows all the available steps for the selected workflow, as well as transitions between these steps.'] = 'This page shows all the available steps for the selected workflow, as well as transitions between these steps.';
   $strings['You can add and remove steps from this page, as well as manage the transitions between them.'] = 'You can add and remove steps from this page, as well as manage the transitions between them.';
   $strings['Steps without any incoming transitions are shown as faded out.'] = 'Steps without any incoming transitions are shown as faded out.';
-  $strings['Add a step'] = '添加步驟';
+  $strings['Add a step'] = '增加步驟';
   $strings['Create a new workflow step'] = 'Create a new workflow step';
   $strings['Step name'] = '步驟名';
   $strings['Outgoing transitions'] = 'Outgoing transitions';
@@ -1504,18 +1504,18 @@
   $strings['Post-transition validation'] = 'Post-transition validation';
   $strings['Post-transition actions'] = 'Post-transition actions';
   $strings['The following validation rules has to be fullfilled for the transition to be available to the user'] = 'The following validation rules has to be fullfilled for the transition to be available to the user';
-  $strings['Add pre transition validation rule'] = '添加預過渡驗證規則';
+  $strings['Add pre transition validation rule'] = '增加預過渡驗證規則';
   $strings['Max number of assigned issues'] = 'Max number of assigned issues';
   $strings['This transition has no pre-validation rules'] = 'This transition has no pre-validation rules';
   $strings['The following validation rules will be applied to the input given by the user in the transition view. If the validation fails, the transition will not take place.'] = 'The following validation rules will be applied to the input given by the user in the transition view. If the validation fails, the transition will not take place.';
-  $strings['Add post transition validation rule'] = '添加後過渡驗證規則';
+  $strings['Add post transition validation rule'] = '增加後過渡驗證規則';
   $strings['Validate specified priority'] = 'Validate specified priority';
   $strings['Validate specified reproducability'] = 'Validate specified reproducability';
   $strings['Validate specified resolution'] = 'Validate specified resolution';
   $strings['Validate specified status'] = 'Validate specified status';
   $strings['This transition has no post validation rules'] = 'This transition has no post validation rules';
   $strings['The following actions will be applied to the issue during this transition.'] = 'The following actions will be applied to the issue during this transition.';
-  $strings['Add transition action'] = '添加過渡動作';
+  $strings['Add transition action'] = '增加過渡動作';
   $strings['Assign the issue to a user'] = '分配問題給用戶';
   $strings['Set issue priority'] = '設置問題優先順序';
   $strings['Set issue percent completed'] = '設置完成度百分比';
@@ -1525,7 +1525,7 @@
   $strings['Mark as duplicate'] = 'Mark as duplicate';
   $strings['Set issue status'] = '設置問題狀態';
   $strings['Set issue milestone'] = '設置問題里程碑';
-  $strings['Add a comment if one is specified'] = '如果明確指定則添加留言';
+  $strings['Add a comment if one is specified'] = '如果明確指定則增加留言';
   $strings['This transition has no actions'] = 'This transition has no actions';
 
 // First occurrence is in: modules/configuration/templates/findusers.html.php
@@ -1699,7 +1699,7 @@
 
 // First occurrence is in: modules/mailing/templates/_editincomingemailaccount.inc.php
 // ----------------------------------------------------------------------------
-  $strings['Add new incoming email account'] = '添加收件賬號';
+  $strings['Add new incoming email account'] = '增加收件賬號';
   $strings['Edit incoming email account'] = 'Edit incoming email account';
   $strings['The Bug Genie can check email accounts and create issues from incoming emails. Set up a new account here, and check the %online_documentation% for more information.'] = 'The Bug Genie can check email accounts and create issues from incoming emails. Set up a new account here, and check the %online_documentation% for more information.';
   $strings['Account name:'] = '帳號名稱：';
@@ -1717,7 +1717,7 @@
   $strings['Any issues created will be set to this issuetype, and its first workflow step will be applied'] = 'Any issues created will be set to this issuetype, and its first workflow step will be applied';
   $strings['Save changes'] = '保存更改';
   $strings['When you are done, click "%save_changes%" to update the details for this account'] = 'When you are done, click "%save_changes%" to update the details for this account';
-  $strings['Add account'] = '添加賬號';
+  $strings['Add account'] = '增加賬號';
   $strings['When you are done, click "%add_account%" to add this account'] = 'When you are done, click "%add_account%" to add this account';
 
 // First occurrence is in: modules/mailing/templates/_forgotPasswordPane.inc.php
@@ -1742,7 +1742,7 @@
 // First occurrence is in: modules/mailing/templates/_projectconfig_panel.inc.php
 // ----------------------------------------------------------------------------
   $strings['You do not have the relevant permissions to access email settings'] = 'You do not have the relevant permissions to access email settings';
-  $strings['Add new account'] = '添加新帳號';
+  $strings['Add new account'] = '增加新帳號';
   $strings['Incoming email accounts'] = 'Incoming email accounts';
 
 // First occurrence is in: modules/mailing/templates/_projectconfig_tab.inc.php
@@ -1970,9 +1970,9 @@
 
 // First occurrence is in: modules/main/templates/_attachlink.inc.php
 // ----------------------------------------------------------------------------
-  $strings['Attach a link to this issue'] = '為這個問題添加一個連結';
+  $strings['Attach a link to this issue'] = '為這個問題增加一個連結';
   $strings['URL'] = '連結地址';
-  $strings['Attach link'] = '添加連結';
+  $strings['Attach link'] = '增加連結';
   $strings['Enter the link URL here, along with an optional description. Press "%attach_link%" to attach it to the issue.'] = 'Enter the link URL here, along with an optional description. Press "%attach_link%" to attach it to the issue.';
   $strings['%attach_link% or %cancel%'] = '%attach_link% or %cancel%';
 
@@ -2022,7 +2022,7 @@
 // ----------------------------------------------------------------------------
   $strings['Configure dashboard'] = '配置工作面板';
   $strings['...Select a view...'] = '...選擇視圖...';
-  $strings['Add a view to dashboard'] = '添加一個視圖到工作面板';
+  $strings['Add a view to dashboard'] = '增加一個視圖到工作面板';
   $strings["When you're happy, save your changes"] = "When you're happy, save your changes";
   $strings['Save dashboard'] = '保存工作台';
   $strings['Close and reload'] = '關閉並重新載入';
@@ -2089,11 +2089,11 @@
 
 // First occurrence is in: modules/main/templates/_issueadditem.inc.php
 // ----------------------------------------------------------------------------
-  $strings['Add affected item'] = '添加受影響的項目';
+  $strings['Add affected item'] = '增加受影響的項目';
   $strings['Please select the type and item you wish to add as affected by this issue.'] = 'Please select the type and item you wish to add as affected by this issue.';
   $strings['Item type'] = 'Item type';
   $strings['Affected item'] = '受影響的條目';
-  $strings['Add this item'] = '添加這個條目';
+  $strings['Add this item'] = '增加這個條目';
 
 // First occurrence is in: modules/main/templates/_issueaffected.inc.php
 // ----------------------------------------------------------------------------
@@ -2175,14 +2175,14 @@
   $strings['Mark as not blocking the next release'] = 'Mark as not blocking the next release';
   $strings['Mark as blocking the next release'] = 'Mark as blocking the next release';
   $strings['This action is not available when this issue is closed'] = 'This action is not available when this issue is closed';
-  $strings['Attach a link'] = '添加相關連結';
-  $strings['Attach a file'] = '添加附件';
+  $strings['Attach a link'] = '增加相關連結';
+  $strings['Attach a file'] = '增加附件';
   $strings['Before you can upload attachments, file uploads needs to be activated'] = '在您上傳附件之前需要先啟用檔案上傳功能';
   $strings['File uploads are not enabled'] = 'File uploads are not enabled';
   $strings['You are not allowed to add an item to this list'] = 'You are not allowed to add an item to this list';
-  $strings['Create a new related issue'] = '創建相關問題';
-  $strings['Relate to an existing issue'] = '關聯已有問題';
-  $strings['Move issue to another project'] = '移動到其他項目';
+  $strings['Create a new related issue'] = '建立相關問題';
+  $strings['Relate to an existing issue'] = '關聯已存在的問題';
+  $strings['Move issue to another project'] = '移動到其他專案';
   $strings['This action is not available at this stage in the workflow'] = 'This action is not available at this stage in the workflow';
   $strings['Update issue access policy'] = 'Update issue access policy';
   $strings['Are you sure you wish to delete this issue? It will remain in the database for your records, but will not be accessible via The Bug Genie.'] = 'Are you sure you wish to delete this issue? It will remain in the database for your records, but will not be accessible via The Bug Genie.';
@@ -2197,20 +2197,20 @@
   $strings['Issue access policy'] = 'Issue access policy';
   $strings['Available to anyone with access'] = '對任何進入的人可用';
   $strings['Available only to you and those listed below'] = '只對你和下列表可用';
-  $strings['Add a user or team'] = '添加用戶或團隊';
+  $strings['Add a user or team'] = '增加用戶或團隊';
   $strings['Users or teams who can see this issue'] = 'Users or teams who can see this issue';
   $strings['Give someone access to this issue'] = 'Give someone access to this issue';
   $strings['Noone else can see this issue'] = 'Noone else can see this issue';
 
 // First occurrence is in: modules/main/templates/_login.inc.php
 // ----------------------------------------------------------------------------
-  $strings['Register new account'] = 'Register new account';
-  $strings['Log in to an existing account'] = 'Log in to an existing account';
-  $strings['Password'] = 'Password';
+  $strings['Register new account'] = '註冊新帳號';
+  $strings['Log in to an existing account'] = '我已經有帳號我要登入';
+  $strings['Password'] = '密碼';
 
 // First occurrence is in: modules/main/templates/_loginregister.inc.php
 // ----------------------------------------------------------------------------
-  $strings['Register a new account'] = 'Register a new account';
+  $strings['Register a new account'] = '註冊一個新帳號';
   $strings['To register, please fill out the information below.'] = 'To register, please fill out the information below.';
   $strings['Required information is marked with an asterisk'] = 'Required information is marked with an asterisk';
   $strings['Display name'] = 'Display name';
@@ -2254,16 +2254,16 @@
 
 // First occurrence is in: modules/main/templates/_menulinks.inc.php
 // ----------------------------------------------------------------------------
-  $strings['Toggle menu edit mode'] = '開關菜單編輯模式';
-  $strings['Add an item to the menu'] = '添加菜單項';
-  $strings['Add a link'] = '添加連結';
+  $strings['Toggle menu edit mode'] = '開關選單編輯模式';
+  $strings['Add an item to the menu'] = '增加選單項';
+  $strings['Add a link'] = '增加連結';
   $strings['Article name'] = '文章名稱';
-  $strings['Add link'] = '添加連結';
+  $strings['Add link'] = '增加連結';
   $strings['Enter the name of the article to link to here, along with an (optional) description, and press "%add_link%" to add it to the menu.'] = 'Enter the name of the article to link to here, along with an (optional) description, and press "%add_link%" to add it to the menu.';
   $strings['Enter the link URL here, along with an (optional) description, and press "%add_link%" to add it to the menu.'] = 'Enter the link URL here, along with an (optional) description, and press "%add_link%" to add it to the menu.';
   $strings['To add free text, just enter text in the description - without any url - and press the "%add_link%" button (Text will be parsed according to the %wiki_formatting%).'] = 'To add free text, just enter text in the description - without any url - and press the "%add_link%" button (Text will be parsed according to the %wiki_formatting%).';
   $strings['To add a spacer, just press "%add_link%", without any url or description.'] = 'To add a spacer, just press "%add_link%", without any url or description.';
-  $strings['There are no links in this menu'] = '此菜單沒有連結';
+  $strings['There are no links in this menu'] = '此選單沒有連結';
 
 // First occurrence is in: modules/main/templates/_milestonedashboardbox.inc.php
 // ----------------------------------------------------------------------------
@@ -2292,7 +2292,7 @@
 
 // First occurrence is in: modules/main/templates/_openid.inc.php
 // ----------------------------------------------------------------------------
-  $strings['Add external login'] = '添加外部登陸';
+  $strings['Add external login'] = '增加外部登陸';
 
 // First occurrence is in: modules/main/templates/_openidbuttons.inc.php
 // ----------------------------------------------------------------------------
@@ -2446,8 +2446,8 @@
   $strings['Of the people who experience the bug, how badly does it affect their experience?'] = 'Of the people who experience the bug, how badly does it affect their experience?';
   $strings['Choose a severity for this issue'] = 'Choose a severity for this issue';
   $strings['When you are satisfied, click the %file_issue% button to file your issue'] = '點擊 %file_issue% 按鈕提交你的問題';
-  $strings['Add more information to your issue'] = '添加更多信息';
-  $strings['Specify additional information by clicking the links below before submitting your issue'] = '點擊下面的連結在提交問題前添加附加信息';
+  $strings['Add more information to your issue'] = '增加更多信息';
+  $strings['Specify additional information by clicking the links below before submitting your issue'] = '點擊下面的連結在提交問題前增加附加信息';
   $strings['Set initial status'] = '設置初始狀態';
   $strings['Specify edition'] = 'Specify edition';
   $strings['Specify release'] = 'Specify release';
@@ -2660,7 +2660,7 @@
   $strings['Lets you use arrow up / down in issue lists to navigate'] = 'Lets you use arrow up / down in issue lists to navigate';
   $strings['Click "%save%" to save your profile settings'] = 'Click "%save%" to save your profile settings';
   $strings['The Bug Genie supports logging in via external authentication providers via %openid%. This means you can use your account details from other services (such as Google, Wordpress, etc.) to log in here, without having to remember another set of login details.'] = 'The Bug Genie supports logging in via external authentication providers via %openid%. This means you can use your account details from other services (such as Google, Wordpress, etc.) to log in here, without having to remember another set of login details.';
-  $strings['Add login from another provider'] = '從另外的提供商添加登陸';
+  $strings['Add login from another provider'] = '從另外的提供商增加登陸';
   $strings['You have not linked your account with any external authentication providers.'] = 'You have not linked your account with any external authentication providers.';
   $strings['By doing this, it will not be possible to log into this account via this authentication provider'] = 'By doing this, it will not be possible to log into this account via this authentication provider';
   $strings['Do you really want to remove the link to this external account?'] = 'Do you really want to remove the link to this external account?';
@@ -2722,7 +2722,7 @@
   $strings['Could not save your changes'] = 'Could not save your changes';
   $strings['This issue has been changed since you started editing it'] = 'This issue has been changed since you started editing it';
   $strings['Data that has been changed is highlighted in red below. Undo your changes to see the updated information'] = 'Data that has been changed is highlighted in red below. Undo your changes to see the updated information';
-  $strings['Add comment and save changes'] = '添加評論並保存更改';
+  $strings['Add comment and save changes'] = '增加評論並保存更改';
   $strings["You have changed this issue, but haven't saved your changes yet. To save it, press the %save_changes% button to the right"] = "You have changed this issue, but haven't saved your changes yet. To save it, press the %save_changes% button to the right";
   $strings['There was an error trying to move this issue to the next step in the workflow'] = 'There was an error trying to move this issue to the next step in the workflow';
   $strings['The following actions could not be performed because of missing or invalid values: %list%'] = 'The following actions could not be performed because of missing or invalid values: %list%';
@@ -2855,7 +2855,7 @@
 
 // First occurrence is in: modules/project/templates/_build.inc.php
 // ----------------------------------------------------------------------------
-  $strings['Add new release'] = '添加新發行版';
+  $strings['Add new release'] = '增加新發行版';
   $strings['Edit release details'] = '編輯發行版詳情';
   $strings['Release name:'] = '發行版名稱：';
   $strings['Version: %version_number%'] = '版本: %version_number%';
@@ -2878,7 +2878,7 @@
   $strings['Specify download URL'] = '指定下載 URL';
   $strings['Update release'] = '更新發行版';
   $strings['When you are done, click "%update_release%" to update the details for this release'] = 'When you are done, click "%update_release%" to update the details for this release';
-  $strings['Add release'] = '添加版本';
+  $strings['Add release'] = '增加版本';
   $strings['When you are done, click "%add_release%" to publish this release'] = '當完成時點擊 "%add_release%" 發佈這個發行版';
 
 // First occurrence is in: modules/project/templates/_buildbox.inc.php
@@ -2977,7 +2977,7 @@
 
 // First occurrence is in: modules/project/templates/_milestone.inc.php
 // ----------------------------------------------------------------------------
-  $strings['Add milestone'] = '添加里程碑';
+  $strings['Add milestone'] = '增加里程碑';
   $strings['Edit milestone details'] = 'Edit milestone details';
   $strings['Name:'] = 'Name:';
   $strings['Description:'] = '說明:';
@@ -3003,7 +3003,7 @@
 
 // First occurrence is in: modules/project/templates/_milestoneboxheader.inc.php
 // ----------------------------------------------------------------------------
-  $strings['Add issue'] = '添加問題';
+  $strings['Add issue'] = '增加問題';
   $strings['Click to show assigned stories for this milestone'] = 'Click to show assigned stories for this milestone';
   $strings['Click to show more actions for this milestone'] = '點擊顯示更多操作';
   $strings['Show milestone overview'] = '查看里程碑概況';
@@ -3077,7 +3077,7 @@
   $strings['Change / set QA responsible'] = 'Change / set QA responsible';
   $strings['Set QA responsible to noone'] = 'Set QA responsible to noone';
   $strings['Change Qa responsible'] = 'Change Qa responsible';
-  $strings['Add people to this project'] = '在項目中添加人員';
+  $strings['Add people to this project'] = '在項目中增加人員';
   $strings['Find team or user'] = '查找團隊或用戶';
   $strings['To add people to this project, enter the name of a user or team to search for it'] = 'To add people to this project, enter the name of a user or team to search for it';
 
@@ -3097,7 +3097,7 @@
   $strings['Components for this edition'] = 'Components for this edition';
   $strings['Remove'] = 'Remove';
   $strings['This edition has no components'] = 'This edition has no components';
-  $strings['Add an existing component'] = '添加已存在的組件';
+  $strings['Add an existing component'] = '增加已存在的組件';
   $strings['This project has no components'] = 'This project has no components';
   $strings['You can only add existing project components. If this project does not have any components yet, go back to the project overview and add them there.'] = 'You can only add existing project components. If this project does not have any components yet, go back to the project overview and add them there.';
   $strings['Components can be enabled in project settings'] = 'Components can be enabled in project settings';
@@ -3110,16 +3110,16 @@
 
 // First occurrence is in: modules/project/templates/_projecthierarchy.inc.php
 // ----------------------------------------------------------------------------
-  $strings['Add an edition'] = '添加版本';
+  $strings['Add an edition'] = '增加版本';
   $strings['Project editions'] = 'Project editions';
   $strings['Edition name'] = 'Edition name';
-  $strings['Adding edition, please wait'] = '添加版本，請等待';
+  $strings['Adding edition, please wait'] = '增加版本，請等待';
   $strings['There are no editions'] = 'There are no editions';
   $strings['This project does not use editions. Editions can be enabled in %advanced_settings%'] = 'This project does not use editions. Editions can be enabled in %advanced_settings%';
-  $strings['Add a component'] = '添加組件';
+  $strings['Add a component'] = '增加組件';
   $strings['Project components'] = 'Project components';
   $strings['Component name'] = 'Component name';
-  $strings['Adding component, please wait'] = '添加組件，請等待';
+  $strings['Adding component, please wait'] = '增加組件，請等待';
   $strings['There are no components'] = 'There are no components';
   $strings['This project does not use components. Components can be enabled in %advanced_settings%'] = 'This project does not use components. Components can be enabled in %advanced_settings%';
 
@@ -3159,7 +3159,7 @@
   $strings['%number_of_issues_per% Status type'] = '%number_of_issues_per% Status type';
   $strings['Project details'] = '項目詳情';
   $strings['Display settings'] = '顯示設置';
-  $strings['Editions and components'] = 'Editions and components';
+  $strings['Editions and components'] = '版本和元件';
   $strings['Roles and permissions'] = '角色與權限';
 
 // First occurrence is in: modules/project/templates/_projectother.inc.php
@@ -3253,7 +3253,7 @@
   $strings['Selecting a color makes the story easily recognizable'] = 'Selecting a color makes the story easily recognizable';
   $strings['%points%pt(s)'] = '%points%pt(s)';
   $strings['Open in new window'] = 'Open in new window';
-  $strings['Add a task to this user story'] = '在此用戶故事中添加一個任務';
+  $strings['Add a task to this user story'] = '在此用戶故事中增加一個任務';
   $strings['Show tasks for this user story'] = 'Show tasks for this user story';
   $strings["This story doesn't have any tasks"] = "This story doesn't have any tasks";
 
@@ -3282,10 +3282,10 @@
 // ----------------------------------------------------------------------------
   $strings['Please specify something to search for'] = 'Please specify something to search for';
   $strings['The following teams were found based on your search criteria'] = 'The following teams were found based on your search criteria';
-  $strings['Add team'] = '添加團隊';
+  $strings['Add team'] = '增加團隊';
   $strings['Could not find any teams based on your search criteria'] = 'Could not find any teams based on your search criteria';
   $strings['The following users were found based on your search criteria'] = 'The following users were found based on your search criteria';
-  $strings['Add user'] = '添加用戶';
+  $strings['Add user'] = '增加用戶';
   $strings['Could not find any users based on your search criteria'] = 'Could not find any users based on your search criteria';
 
 // First occurrence is in: modules/project/templates/issues.html.php
@@ -3312,22 +3312,22 @@
 // First occurrence is in: modules/project/templates/planning.html.php
 // ----------------------------------------------------------------------------
   $strings['"%project_name%" project planning'] = '"%project_name%" project planning';
-  $strings['Add new milestone'] = '添加新里程碑';
+  $strings['Add new milestone'] = '增加新里程碑';
   $strings['Configure columns'] = '配置列';
   $strings['Project milestones'] = '項目里程碑';
-  $strings['Adding sprint, please wait'] = '添加sprint，請等待';
+  $strings['Adding sprint, please wait'] = '增加sprint，請等待';
   $strings['No milestones have been created yet.'] = 'No milestones have been created yet.';
 
 // First occurrence is in: modules/project/templates/releasecenter.html.php
 // ----------------------------------------------------------------------------
   $strings['"%project_name%" release center'] = '"%project_name%" release center';
-  $strings['Add new project release'] = '添加新項目發佈';
+  $strings['Add new project release'] = '增加新項目發佈';
   $strings['Active project releases'] = '發佈活動的項目';
   $strings['There are no active releases for this project'] = 'There are no active releases for this project';
-  $strings['Add new edition release'] = '添加一個新版本發佈';
+  $strings['Add new edition release'] = '增加一個新版本發佈';
   $strings['Active %edition_name% releases'] = '活動%edition_name%發佈';
   $strings['There are no active releases for this edition'] = 'There are no active releases for this edition';
-  $strings['Archived releases'] = 'Archived releases';
+  $strings['Archived releases'] = '歷史版本';
   $strings['There are no archived releases for this project'] = 'There are no archived releases for this project';
   $strings['Archived %edition_name% releases'] = 'Archived %edition_name% releases';
   $strings['There are no archived releases for this edition'] = 'There are no archived releases for this edition';
@@ -3360,7 +3360,7 @@
   $strings['"%project_name%" project team'] = '"%project_name%" project team';
   $strings['Loading, please wait'] = 'Loading, please wait';
   $strings['Click one of the graphs below to show details'] = 'Click one of the graphs below to show details';
-  $strings['Select an item in the left menu to show more details'] = '通過左側菜單查看更多內容';
+  $strings['Select an item in the left menu to show more details'] = '通過左側選單查看更多內容';
 
 // First occurrence is in: modules/project/templates/statisticslast15.html.php
 // ----------------------------------------------------------------------------
@@ -3453,7 +3453,7 @@
 
 // First occurrence is in: modules/publish/templates/_leftmenu.inc.php
 // ----------------------------------------------------------------------------
-  $strings['Wiki menu'] = 'Wiki 菜單';
+  $strings['Wiki menu'] = 'Wiki 選單';
   $strings['Links to this article'] = '連結到此文章';
   $strings['No other articles links to this article'] = '沒有其他文章連結到此文章';
 
@@ -3487,7 +3487,7 @@
 // ----------------------------------------------------------------------------
   $strings['General wiki settings'] = '通用 WIKI 設置';
   $strings['Import wiki articles'] = '導入 WIKI 文章';
-  $strings['Menu title'] = '菜單標題';
+  $strings['Menu title'] = '選單標題';
   $strings['Project archive / Archive'] = '項目歸檔 / 歸檔';
   $strings['Project documentation / Documentation'] = '項目文檔 / 文檔';
   $strings['Project documents / Documents'] = '項目文檔 / 文檔';
@@ -3503,7 +3503,7 @@
   $strings['Setting this to "%no%" will not require users to enter a reason when saving Wiki changes'] = 'Setting this to "%no%" will not require users to enter a reason when saving Wiki changes';
   $strings['Wiki permissions'] = 'Wiki 權限';
   $strings['Open for everyone with access to add / remove content'] = 'Open for everyone with access to add / remove content';
-  $strings['Only registered users can add / remove content'] = '只有註冊用戶才允許添加/刪除內容';
+  $strings['Only registered users can add / remove content'] = '只有註冊用戶才允許增加/刪除內容';
   $strings['Set wiki permissions manually'] = '手動設置WIKI權限';
   $strings['Specify how you want to control access to wiki editing functionality'] = 'Specify how you want to control access to wiki editing functionality';
   $strings['Click "%save%" to save wiki settings'] = '點擊 "%save%" 保存WIKI設置';
@@ -3713,7 +3713,7 @@
   $strings['Issues containing'] = 'Issues containing';
   $strings['Issues not containing'] = 'Issues not containing';
   $strings['Leave this input field blank to list all issues based on filters below'] = 'Leave this input field blank to list all issues based on filters below';
-  $strings['Add filter'] = '添加過濾器';
+  $strings['Add filter'] = '增加過濾器';
   $strings['Issue state - whether an issue is open or closed'] = 'Issue state - whether an issue is open or closed';
   $strings['Status - what status an issue has'] = 'Status - what status an issue has';
   $strings["Resolution - the issue's resolution"] = "Resolution - the issue's resolution";
