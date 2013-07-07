@@ -35,14 +35,14 @@
   $strings['Read-only access: "Modules" and any module configuration page'] = 'Read-only access: "Modules" and any module configuration page';
   $strings['Read + write access: "Modules" configuration page and any modules'] = 'Read + write access: "Modules" configuration page and any modules';
   $strings['Can search for issues and create saved searches'] = 'Can search for issues and create saved searches';
-  $strings['Can search for issues'] = 'Can search for issues';
+  $strings['Can search for issues'] = '能以議題做搜尋';
   $strings['Can create saved searches that are public'] = 'Can create saved searches that are public';
-  $strings['Can edit main menu'] = 'Can edit main menu';
+  $strings['Can edit main menu'] = '能修改主選單';
   $strings['Can access the frontpage'] = '允許訪問首頁';
   $strings['Can access the user dashboard'] = '允許訪問用戶工作台';
   $strings['Can access the search page'] = '允許訪問搜索頁面';
-  $strings['Can access the "About" page'] = 'Can access the "About" page';
-  $strings['Can access the "My account" page'] = 'Can access the "My account" page';
+  $strings['Can access the "About" page'] = '能存取 "關於" 頁面';
+  $strings['Can access the "My account" page'] = 'Can access the "我的帳號" page';
   $strings['Can change own password'] = '允許修改密碼';
   $strings['Can see list of teams in header menu'] = 'Can see list of teams in header menu';
   $strings['Can access all clients'] = '允許訪問所有客戶端';
@@ -72,7 +72,7 @@
   $strings['Can see this edition'] = 'Can see this edition';
   $strings['Can see this component'] = 'Can see this component';
   $strings['Can see this release'] = 'Can see this release';
-  $strings['Can see this milestone'] = 'Can see this milestone';
+  $strings['Can see this milestone'] = '能夠看見里程碑';
   $strings['Can vote for issues'] = 'Can vote for issues';
   $strings['Can toggle issue access between restricted and public'] = 'Can toggle issue access between restricted and public';
   $strings['Can create issues, edit basic information on issues reported by the user and close/re-open them'] = 'Can create issues, edit basic information on issues reported by the user and close/re-open them';
@@ -134,7 +134,7 @@
   $strings['Can delete any comments'] = 'Can delete any comments';
   $strings['A loop has been found in the project heirarchy. Go to project configuration, and alter the subproject setting for this project so that this project is not a subproject of one which is a subproject of this one.'] = 'A loop has been found in the project heirarchy. Go to project configuration, and alter the subproject setting for this project so that this project is not a subproject of one which is a subproject of this one.';
   $strings['An authentication error occured. Please reload your page and try again'] = 'An authentication error occured. Please reload your page and try again';
-  $strings['Please log in'] = '請登錄';
+  $strings['Please log in'] = '請登入';
 
 // First occurrence is in: core/classes/TBGCustomDatatype.class.php
 // ----------------------------------------------------------------------------
